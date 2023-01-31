@@ -1,11 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Sakshi Shirude</h1>
-<h3 align="center">A enthusiastic learner from India</h3>
+<h3 align="center">A enthusiastic and self-motivated IT engineer with keen interest in coding✌🏻 a strong foundation in math, logic and coding 🎯 Innovative, creative and willing to contribute ideas and learn new things📌💻</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Fake Reviews Detection**
 
-- 🌱 I’m currently learning **MS server and Microsoft Azure**
+- 🌱 I’m currently learning **MS Server and Microsoft Azure**
 
 - 💬 Ask me about **Python,SQL**
 

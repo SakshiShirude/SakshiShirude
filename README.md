@@ -20,7 +20,7 @@
 <div style="display: flex; align-items: center; gap: 20px;">  
 
 <h3 align="left">DevOps</h3>
-<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://mma.prnewswire.com/media/776689/New_Docker_logo_Logo.jpg?p=publish" alt="Docker" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://mma.prnewswire.com/media/776689/New_Docker_logo_Logo.jpg?p=publish" alt="Docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://concisesoftware.com/wp-content/uploads/2020/01/Kubernetes-logo.png" alt="Kubernetes" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/jenkins-logo-11609365847mufysaivph.png" alt="Jenkins" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://logosmarcas.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="40" height="40"/> </a>
@@ -28,31 +28,29 @@
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/> </a>
 <a href="https://harness.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/harnessio/harnessio-icon.svg" alt="Harness" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/> </a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> </a> -->
-[![Devops](https://skillicons.dev/icons?i=git,gitlab,docker,kubernates,jenkins)](https://skillicons.dev)
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> </a>
 
 
 <h3 align="left"> Frontend </h3>
 <p align="left">
-<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  -->
-[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap)](https://skillicons.dev)
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
-<h3 align="left"> Backend </h2>
-<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
+<h3 align="left"> Backend </h3>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> -->
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-[![Backend](https://skillicons.dev/icons?i=Python,C++&perline=5)](https://skillicons.dev)
 </div>
 
 <h3 align="left"> Database </h3>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,kibana,dart,react,javascript,css,redux,mysql,firebase,github,vscode,postman,figma,grafana,illustrator&perline=5)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=Grafana,git,gitLab,vscode,intelliJ,redis,postman&perlie=5)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshishirude&show_icons=true&locale=en&layout=compact" alt="sakshishirude" /></p>

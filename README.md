@@ -29,6 +29,7 @@
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/> </a>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshishirude&show_icons=true&locale=en&layout=compact" alt="sakshishirude" /></p>
 
 <h3 align="left"> Frontend </h3>
 <p align="left">
@@ -36,7 +37,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshishirude&show_icons=true&locale=en&layout=compact" alt="sakshishirude" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshishirude&show_icons=true&locale=en" alt="sakshishirude" /></p>
 
 <h3 align="left"> Backend </h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -52,6 +53,3 @@
 ### Other Tools
 [![Others](https://skillicons.dev/icons?i=vscode,redis,postman&perlie=3)](https://skillicons.dev)
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshishirude&show_icons=true&locale=en" alt="sakshishirude" /></p>

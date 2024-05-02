@@ -1,6 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif)
+![MasterHead cover](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif)
 <h1 align="center">Hi 👋, I'm Sakshi Shirude</h1>
-<h3 align="center">A enthusiastic and self-motivated IT engineer with keen interest in coding✌🏻 a strong foundation logic and coding 🎯 Innovative, creative and willing to contribute ideas and learn new things📌💻</h3>
+<h2 align="center">A enthusiastic and self-motivated IT engineer with keen interest in coding✌🏻 a strong foundation logic and coding 🎯 Innovative, creative and willing to contribute ideas and learn new things📌💻</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working with **WebEx in CISCO as Software Engineer Trainee** 
@@ -48,6 +48,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,kibana,dart,react,javascript,css,redux,mysql,firebase,github,vscode,postman,figma,grafana,illustrator&perline=5)](https://skillicons.dev)
 
+[![Devops](https://skillicons.dev/icons?i=git,gitlab,docker,kubernates,jenkins&perline=5)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap&perline=5)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=Python,Java,C++&perline=5)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql&perline=5)](https://skillicons.dev)
+[![Monitoring](https://skillicons.dev/icons?i=Grafana,kibana&perline=5)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshishirude&show_icons=true&locale=en&layout=compact" alt="sakshishirude" /></p>

@@ -1,4 +1,3 @@
-// ![MasterHead cover](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif)
 <h1 align="center">Hi 👋, I'm Sakshi Shirude</h1>
 <h2 align="center">A enthusiastic and self-motivated IT engineer with keen interest in coding✌🏻 a strong foundation logic and coding 🎯 Innovative, creative and willing to contribute ideas and learn new things📌💻</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

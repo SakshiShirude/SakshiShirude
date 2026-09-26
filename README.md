@@ -2,7 +2,7 @@
 <h2 align="center">A enthusiastic and self-motivated IT engineer with keen interest in coding✌🏻 a strong foundation logic and coding 🎯 Innovative, creative and willing to contribute ideas and learn new things📌💻</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working with **WebEx in CISCO as Software Engineer Trainee** 
+- 🔭 I’m currently working with **VISA CyberSecurity as Software Engineer** 
 
 - 🌱 My ability to say **I will complete the half-marathon run without giving up and stopping anywhere by never giving up, this faith in me makes me complete the race with full confidence and endurance!!**
 
